@@ -21,6 +21,13 @@ The project “Smart Wi-Fi Jammer” is about creating an IOT based solution to 
    sudo apt-get install aircrack-ng
 
 
+# Cloning and Running the Application
+  git clone https://github.com/ctrl-Surinder/Smart-Wi-Fi-Jammer</br>
+  cd Smart-Wi-Fi-Jammer/PI</br>
+  sudo python3 SmartWifiJammer.py
+
+# Application deployment to make a portable Smart Wi-Fi Jammer Device
+  
 
 
 
