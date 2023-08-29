@@ -4,20 +4,20 @@ The project “Smart Wi-Fi Jammer” is about creating an IOT based solution to 
 
 # Istalling necessary packages to run the “Smart Wi-Fi Jammer”
 
-1. Installing scapy python library</br>
+1. Installing scapy python library:</br>
    sudo apt-get install python3-scapy
 
-2. Installing pip(package installer for python)</br>
+2. Installing pip(package installer for python):</br>
    sudo apt-get install python3-pip
 
-3. Installing pyqt5 packages</br>
+3. Installing pyqt5 packages:</br>
    sudo apt-get install pyqt5-dev-tools</br>
    sudo apt-get install qttools-dev-tools
 
-4. sudo pip3 install qt-material</br>
-   Installing qt-material package for application theme
+4. Installing qt-material package for application theme:</br>
+   sudo pip3 install qt-material
 
-5. Installing aircrack-ng package</br>
+5. Installing aircrack-ng package:</br>
    sudo apt-get install aircrack-ng
 
 
@@ -25,7 +25,7 @@ The project “Smart Wi-Fi Jammer” is about creating an IOT based solution to 
 
 
 # credits
-https://github.com/hash3liZer/wifijammer</br> 
+https://github.com/hash3liZer/wifijammer:</br> 
 https://github.com/UN-GCPDS/qt-material
 
 
