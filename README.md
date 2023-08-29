@@ -28,7 +28,7 @@ The project “Smart Wi-Fi Jammer” is about creating an IOT based solution to 
 
 # Application deployment to make a portable Smart Wi-Fi Jammer Device
   
-
+![alt text](https://github.com/ctrl-Surinder/Smart-Wi-Fi-Jammer/blob/main/resources/swj.png)
 
 
 # credits
