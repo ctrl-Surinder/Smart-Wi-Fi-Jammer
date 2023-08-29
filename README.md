@@ -26,7 +26,7 @@ The project “Smart Wi-Fi Jammer” is about creating an IOT based solution to 
   cd Smart-Wi-Fi-Jammer/PI</br>
   sudo python3 SmartWifiJammer.py
 
-# Application deployment to make a portable Smart Wi-Fi Jammer Device
+# Application Interface
   
 ![alt text](https://github.com/ctrl-Surinder/Smart-Wi-Fi-Jammer/blob/main/resources/swj.png)
 
